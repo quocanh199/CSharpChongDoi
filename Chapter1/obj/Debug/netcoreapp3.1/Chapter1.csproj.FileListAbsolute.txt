@@ -1,0 +1,13 @@
+/home/quocanh/CSharp/Chapter1/bin/Debug/netcoreapp3.1/Chapter1
+/home/quocanh/CSharp/Chapter1/bin/Debug/netcoreapp3.1/Chapter1.deps.json
+/home/quocanh/CSharp/Chapter1/bin/Debug/netcoreapp3.1/Chapter1.runtimeconfig.json
+/home/quocanh/CSharp/Chapter1/bin/Debug/netcoreapp3.1/Chapter1.runtimeconfig.dev.json
+/home/quocanh/CSharp/Chapter1/bin/Debug/netcoreapp3.1/Chapter1.dll
+/home/quocanh/CSharp/Chapter1/bin/Debug/netcoreapp3.1/Chapter1.pdb
+/home/quocanh/CSharp/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.csprojAssemblyReference.cache
+/home/quocanh/CSharp/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.AssemblyInfoInputs.cache
+/home/quocanh/CSharp/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.AssemblyInfo.cs
+/home/quocanh/CSharp/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.csproj.CoreCompileInputs.cache
+/home/quocanh/CSharp/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.dll
+/home/quocanh/CSharp/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.pdb
+/home/quocanh/CSharp/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.genruntimeconfig.cache
